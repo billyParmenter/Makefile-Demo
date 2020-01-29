@@ -27,4 +27,4 @@ Download all the files in the repository to a local folder
 
 ## Author
 
-* **Billy Parmenter** - *Services 1 & 3* - [billyParmenter](https://github.com/billyParmenter)
+[Billy Parmenter](https://github.com/billyParmenter)
