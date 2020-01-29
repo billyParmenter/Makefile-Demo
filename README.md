@@ -18,7 +18,7 @@ Download all the files in the repository to a local folder
 5) To clean the files made by `nmake` simply run `nmake clean'
 
 #### Ubuntu
-1) Open a terminal (Click [here](https://www.lifewire.com/ways-to-open-a-terminal-console-window-using-ubuntu-4075024) to learn hoe)
+1) Open a terminal (Click [here](https://www.lifewire.com/ways-to-open-a-terminal-console-window-using-ubuntu-4075024) to learn how)
 2) Navigate to the folder you downloaded the files to with the following command changing the file path to the one suited to you
 ```cd "C:\Users\billy\source\repos\makefileDemo"```
 3) Then run `make`
